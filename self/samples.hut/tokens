@@ -1,0 +1,5 @@
+print(9+9)
+a = '123'
+if True:
+    pass
+

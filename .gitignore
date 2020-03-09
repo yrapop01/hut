@@ -1,0 +1,6 @@
+workdir
+layoutdir
+auto
+__pycache__
+mail
+*.o
